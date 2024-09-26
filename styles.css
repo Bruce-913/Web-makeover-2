@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-    background-color: #fff;
+    background-color: #6d4488;
     border: 1px solid #ddd;
     padding: 40px;
     border-radius: 8px;
@@ -20,32 +20,32 @@ body {
     font-size: 48px;
     font-weight: bold;
     letter-spacing: 5px;
-    color: #555;
+    color: #020303;
 }
 
 .name-text {
     font-size: 32px;
     font-weight: bold;
-    color: #333;
+    color: #04d3d3;
 }
 
 .intro-text {
     font-size: 18px;
-    color: #555;
+    color: #fff9f9;
     margin-top: 10px;
 }
 
 .section-title {
     font-size: 24px;
     font-weight: bold;
-    color: #333;
+    color: #000000;
     margin-bottom: 15px;
 }
 
 .experience-list {
     padding-left: 0;
     font-size: 18px;
-    color: #555;
+    color: #ffebeb;
 }
 
 .experience-list li {
@@ -54,6 +54,6 @@ body {
 
 .contact-info {
     font-size: 18px;
-    color: #333;
+    color: #dbcfcf;
     margin-top: 30px;
 }
